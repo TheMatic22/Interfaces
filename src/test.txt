@@ -1,0 +1,2 @@
+This shows that i can use JFileChooser to make sure words are showing
+"The Browm boar jumps over the red river to see the black patch"
