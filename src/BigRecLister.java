@@ -16,7 +16,7 @@ public class BigRecLister {
         rectangles.add(new Rectangle(0,0,8,5));
         rectangles.add(new Rectangle(0,0,4,4));
         rectangles.add(new Rectangle(0,0,20,1));
-        rectangles.add(new Rectangle(0,0,3,3));
+        rectangles.add(new Rectangle(0,0,3,5));
 
         System.out.println("All Rectangles: ");
         for(Rectangle r : rectangles){

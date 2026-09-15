@@ -37,7 +37,7 @@ public class ShortLister {
             System.err.println("Error reading file: " + e.getMessage());
             return;
         }
-        System.out.println("Short words found in " + selectedFile.getName() + ":");
+        System.out.println("Short words found here" + selectedFile.getName() + ":");
         for (String word : shortWords) {
             System.out.println(word);
         }
